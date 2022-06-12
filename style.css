@@ -1,0 +1,26 @@
+.txt {
+    color:palevioletred;
+    font-size: 20px;
+    
+}
+
+.header {
+    color:deepskyblue;
+    font-family:sans-serif;
+    font-style:normal;
+    font-weight:600;
+    font-size:50px;
+}
+
+.txt2 {
+color:deepskyblue; 
+font-size: 20px;
+}
+.txt3 {
+color:lavender;
+font-size:20px;
+}
+
+#body {
+    background-color:white;
+}

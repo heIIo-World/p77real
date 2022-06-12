@@ -1,0 +1,15 @@
+var first = "Hello";
+var second = "there!";
+console.log("(not) my first console project");
+console.log(first);
+console.log(second);
+second = first +" "+ second;
+console.log(second);
+var a = 15;
+var aa = 15/2;
+var b = 43.34353568490237032;
+var bb = Math.floor(b);
+console.log(a);
+console.log(aa);
+console.log(b);
+console.log(bb);
